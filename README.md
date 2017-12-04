@@ -5,4 +5,4 @@
 <p></p>
 <p><b>ViewPager</b> is a ViewGroup object which is often used to present Fragments.</p>
 <p> It has built in animation, and addition of PageTransformer adds various animation options.</p>
-<p>This example implements Zoom-Out and Depth-page transformers.</p>
+<p>This example implements <b>Zoom-Out</b> and <b>Depth-page</b> transformers.</p>
