@@ -6,6 +6,8 @@
 <p></p>
 <img src="screenshot_ViewPager.jpg">
 <p></p>
-<p><b>ViewPager</b> is a ViewGroup object which is often used to present Fragments.</p>
-<p> It has built in animation, and addition of PageTransformer adds various animation options.</p>
-<p>This example implements <b>Zoom-Out</b> and <b>Depth-page</b> transformers.</p>
+<ul>
+<li><b>ViewPager</b> is a ViewGroup object which is often used to present Fragments.</li>
+<li> It has built in animation, and addition of PageTransformer adds various animation options.</li>
+<li>This example implements <b>Zoom-Out</b> and <b>Depth-page</b> transformers.</li>
+</ul>
